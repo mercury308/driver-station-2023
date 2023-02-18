@@ -1,6 +1,6 @@
 # Driver Station 2020
 
- This code is for Team 41's Driver station in the 2019-2020 season.
+ This code is for Team 41's Driver station in the 2019-2020 season. ((edited: reused for the 2023 season))
 
   **Make sure to read [the dependencies file](dependencies.md)** to install all of the libraries on the appropriate device.
 
